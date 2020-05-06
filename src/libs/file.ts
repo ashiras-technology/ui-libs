@@ -1,5 +1,5 @@
 import * as fs from 'fs';
-import yaml from 'js-yaml';
+import * as yaml from 'js-yaml';
 
 import { Entities, Dictionarys, Domains, Contents, UI } from 'ui-models/src/models';
 

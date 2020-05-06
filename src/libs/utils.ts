@@ -1,5 +1,5 @@
-import fs from 'fs';
-import fsExtra from 'fs-extra';
+import * as fs from 'fs';
+import * as fsExtra from 'fs-extra';
 
 export class Utils {
   /**
