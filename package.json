@@ -13,7 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "fs-extra": "^9.0.0",
+    "fs-extra": "^10.0.0",
     "js-yaml": "^3.13.1",
     "ui-models": "git+ssh://git@github.com/ashiras-technology/ui-models.git"
   },
